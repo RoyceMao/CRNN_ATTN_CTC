@@ -7,7 +7,7 @@
 * 文字周围背景噪声千变万化；  
 
 **所以，该项目主要针对场景文字序列，在CTPN检测得到的文字区域基础上，进行文字序列的学习与识别。**  
-<img src="https://github.com/RoyceMao/CRNN_ATTN_CTC/out/digits_1.jpg" width="150" height="50"/> <img src="https://github.com/RoyceMao/CRNN_ATTN_CTC/out/digits_2.jpg" width="150" height="50"/>
+<img src="https://github.com/RoyceMao/CRNN_ATTN_CTC/blob/master/out/digits_1.jpg" width="150" height="50" /> <img src="https://github.com/RoyceMao/CRNN_ATTN_CTC/blob/master/out/digits_2.jpg" width="150" height="50" />
 ## Requirements
 * Torch >= 1.0.0   
 * Torchvision >= 0.2.0   
@@ -44,7 +44,7 @@ Epoch: 50 Loss: 0.0026 Acc: 0.9989 : 100%|██████████| 28/28 
 Test : 50 Loss: 0.0345 Acc: 0.9444 Acc_relax: 0.9921 : 100%|██████████| 72/72 [00:01<00:00, 65.47it/s]
 ```
 #### 4. E.G.
-<img src="https://github.com/RoyceMao/CRNN_ATTN_CTC/out/pred.jpg" width="600" height="100"/>    
+<img src="https://github.com/RoyceMao/CRNN_ATTN_CTC/blob/master/out/pred.jpg" width="600" height="100" />    
 
 ## Reference
 https://xiaodu.io/ctc-explained/   
